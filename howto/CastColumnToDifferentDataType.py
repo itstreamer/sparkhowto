@@ -1,7 +1,7 @@
 from pyspark.sql.functions import *
 from pyspark.sql.types import StringType,IntegerType,StructType,StructField,TimestampType
 from pyspark.sql import SparkSession
-
+  
 spark = SparkSession.builder.master("local[*]").appName("castColumnToDifferentDataType").getOrCreate()
 sc = spark.sparkContext
 df = sc.parallelize([
@@ -14,4 +14,4 @@ df.show()
 df.printSchema()
 df = df.withColumn("Hour",df["Hour"].cast(IntegerType()))
 df.show()
-df.printSchema()
+df.printSchema()/home/bluepi/Downloads

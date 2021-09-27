@@ -1,0 +1,27 @@
+id,opportunity_id,package_id,pricing_parameters,rate_price,sales_price,created_at,updated_at,created_by,updated_by,activation_parameters,active,opm_v1_id
+1,3,49,"{
+""productName"": ""Seed Element Premium Package"",
+""promotedDays"": ""60"",
+""quantity"": ""1"",
+""cityId"": ""526acdc6c33455e9e4e9"",
+""rateApplicable"": ""1""
+}",25000,25000,2018-05-04 18:01:01,2018-05-04 18:01:01,10219298,10219298,"{
+""productName"": ""Seed Element Premium Package"",
+""promotedDays"": ""60"",
+""quantity"": ""1"",
+""cityId"": ""526acdc6c33455e9e4e9"",
+""rateApplicable"": ""1""
+}",1,
+2,3,49,"{
+""productName"": ""Seed Element Premium Package"",
+""promotedDays"": ""60"",
+""quantity"": ""1"",
+""cityId"": ""526acdc6c33455e9e4e9"",
+""rateApplicable"": ""1""
+}",25000,25000,2018-05-04 18:01:01,2018-05-04 18:01:01,10219298,10219298,"{
+""productName"": ""Seed Element Premium Package"",
+""promotedDays"": ""60"",
+""quantity"": ""1"",
+""cityId"": ""526acdc6c33455e9e4e9"",
+""rateApplicable"": ""1""
+}",1,
